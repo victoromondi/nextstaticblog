@@ -8,7 +8,7 @@ const About = () => {
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa dolorum
         rem laborum, repudiandae sed quisquam. Mollitia eos non debitis,
         temporibus quas sapiente nostrum impedit saepe earum minus delectus
-        deleniti pariatursss.
+        deleniti pariaturssing.
       </p>
       <Link href="/">Home Page</Link>
     </div>
